@@ -109,9 +109,9 @@ While typical EOS implementations take 6-12 months with external consultants, we
 
 ---
 
-## What to Expect at the Kickoff Session
+## Kickoff Session Details
 
-### **Session Details**
+### **Session Overview**
 - **Duration**: 4 hours
 - **Format**: Interactive workshop with breaks
 - **Location**: [LOCATION/VIDEO CALL DETAILS]
@@ -152,9 +152,15 @@ While typical EOS implementations take 6-12 months with external consultants, we
 
 ---
 
-## Post-Meeting Commitment
+## What This Implementation Requires
 
-### **Immediate Actions**
+### **From Each Team Member**
+- **Full participation** in the kickoff session
+- **Commitment to weekly L10 meetings** starting immediately after
+- **Active engagement** in building and refining our processes
+- **Patience** as we learn and improve together
+
+### **Immediate Actions After Kickoff**
 - Begin weekly L10 meetings the following week
 - Start tracking our Scorecard metrics
 - Begin working on our first quarterly Rocks
@@ -201,18 +207,6 @@ While typical EOS implementations take 6-12 months with external consultants, we
 ## Questions?
 
 If you have questions about EOS, the implementation, or what to expect, please reach out to me directly. I'm committed to making this implementation successful and want to ensure everyone feels confident and prepared.
-
----
-
-## What This Means for You
-
-This implementation will require:
-- **Full participation** in the kickoff session
-- **Commitment to weekly L10 meetings** starting immediately after
-- **Active engagement** in building and refining our processes
-- **Patience** as we learn and improve together
-
-**This is a team effort that will only succeed with everyone's full engagement.**
 
 ---
 

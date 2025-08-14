@@ -24,8 +24,8 @@ While typical EOS implementations take 6-12 months with external consultants, we
 
 ## Key Documents
 
-### 📋 [EOS Implementation Invitation](eos-implementation-invitation.md)
-The main invitation document explaining why EOS, what to expect, and what's required from the leadership team.
+### 📋 [EOS Initial Overview](eos-initial-overview.md)
+The main overview document explaining why EOS, what to expect, and what's required from the leadership team.
 
 ### 🎯 [EOS at 10X ERP - Self-Implementation Plan](eos-10x.md)
 Detailed working draft of our self-implementation approach, including roles, cadence, and rollout timeline.
