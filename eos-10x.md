@@ -107,5 +107,3 @@ Dec (Close and plan)
 - Run People Analyzer; address right-people/right-seats gaps
 - Document core processes; confirm “followed by all”
 - Conduct Dec Quarterly; schedule Jan annual (2 days)
-
-
